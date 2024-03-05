@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.*;
 import com.project.model.Categorie;
 import com.project.service.CategorieService;
 
-@CrossOrigin(origins = "http://localhost:3000")
+@CrossOrigin(origins = "https://employeemanagementsystem-mainakhalder.azurewebsites.net")
 @RestController
 public class CategorieController {
 

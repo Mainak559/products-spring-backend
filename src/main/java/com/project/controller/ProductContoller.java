@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RestController;
 import com.project.model.Product;
 import com.project.service.ProductService;
 
-@CrossOrigin(origins = "http://localhost:3000")
+@CrossOrigin(origins = "https://employeemanagementsystem-mainakhalder.azurewebsites.net")
 @RestController
 public class ProductContoller {
 	
